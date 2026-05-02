@@ -4,6 +4,10 @@ En esta carpeta se encuentran las evidencias técnicas del rendimiento del model
 
 ### 1. Visualización de Precisión
 ![Gráfica de Precisión](grafica_precision.png)
+
+
+
+
 *La línea roja representa la predicción perfecta. Como se observa, nuestros puntos (28.83N entre ellos) están muy alineados, confirmando un R² de 0.96.*
 
 ### 2. Métricas Alcanzadas
