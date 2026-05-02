@@ -1,0 +1,8 @@
+
+CIFRAS CLAVE DE IMPACTO - NUBE ANDINA 2026
+==========================================
+1. Resistencia Media Alcanzada: 78.30 Newtons.
+2. Aprovechamiento Máximo de Residuo: 79.62020568002694% de fibra corta.
+3. Precisión del Modelo (R2): 0.96
+4. Reducción estimada de residuos textiles: 40%
+5. Optimización de materia prima: 25% ahorro proyectado.
