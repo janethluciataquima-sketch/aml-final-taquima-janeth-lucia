@@ -12,10 +12,13 @@ Preprocesamiento: Se aplicó StandardScaler para normalizar las variables de pre
 
 
 🐑 IA Nube Andina: Deep Learning para el Textil Sostenible 🚀
+
 🌟 Resumen del Proyecto
+
 Nube Andina es una iniciativa de economía circular que transforma los residuos de fibra de alpaca (fibras gruesas y cortas) en fieltros de alta ingeniería. Este repositorio contiene un modelo de Deep Learning diseñado para predecir la resistencia mecánica del material, integrando variables de nanotecnología y biotecnología.
 
 🎯 El Desafío
+
 Tradicionalmente, el descarte de alpaca se pierde. Nosotros lo revalorizamos mediante:
 
 🧪 Nanotecnología: Partículas de Cobre/Plata para propiedades biocidas.
